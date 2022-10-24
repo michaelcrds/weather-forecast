@@ -12,7 +12,7 @@
 O usuário deve ser capaz de:
 
 - Prencher o campo de busca com uma cidade e receber os dados meteorológicos 
-- Receber erros de menssagem quando:
+- Receber mensagens de erro quando:
   - O campo de busca estiver vazio
   - O valor inserido não corresponder ao nome de uma cidade
 - O background da página deve atualizar de acordo com a cidade que foi buscada pelo o usuário
