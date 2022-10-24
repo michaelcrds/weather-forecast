@@ -1,0 +1,49 @@
+/* Custom Fonts */
+@font-face {
+  font-family: Centra;
+  src: url('./assets/font/CentraNo2-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./assets/font/CentraNo2-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./assets/font/CentraNo2-Book.ttf');
+  font-weight: 400;
+}
+
+/* Default */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Centra', sans-serif !important;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #90afc5, #7fa2b9, #6e95ad, #5d88a2, #4c7b96, #427189, #38677c, #2f5d6f, #2e525e, #2d474e, #2c3c3f, #2a3132);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,S
+h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
