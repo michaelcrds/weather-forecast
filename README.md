@@ -4,7 +4,7 @@
 - [Imagens](#imagens)
 - [Links](#links)
 - [Tecnologias](#tecnologias)
-- [Conhecimentos adquiridos](#conhecimentos adquiridos)
+- [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 - [Autor](#autor)
 
 ## Desafio
